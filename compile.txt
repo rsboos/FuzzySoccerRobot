@@ -1,0 +1,1 @@
+g++ main.cpp lib/sock.cpp lib/environm.cpp -I./ -o SoccerPlayer.exe -lws2_32
